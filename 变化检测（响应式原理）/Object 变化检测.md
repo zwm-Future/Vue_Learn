@@ -280,8 +280,10 @@ class Observer {
 }
 ```
 
+![image](https://github.com/zwm-Future/Vue_Learn/assets/82597033/044b15dc-8685-4fe1-a527-dc825f6136a9)
 
-![[Pasted image 20230510225905.png]]
+
+
 
 
 # 问题
