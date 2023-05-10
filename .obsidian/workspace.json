@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "24aefaa1162c6c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae7786aa025c747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6ce71dc3d0f350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "变化检测（响应式原理）/Object 变化检测.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85d928f93afcbbfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb451e177cf2b2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "516491d9bae269b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02f552e1c5cffa24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5819bbec2801d0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "911d0306cc6047ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b23a6ca04ea631c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167adc9e03767a6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "变化检测（响应式原理）/Object 变化检测.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4c806302fcfc967",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "变化检测（响应式原理）/Object 变化检测.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ae6c8782620208e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d2bc105b6c8c3b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "变化检测（响应式原理）/Object 变化检测.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5b6ce71dc3d0f350",
+  "lastOpenFiles": [
+    "变化检测（响应式原理）/Observer.js",
+    "变化检测（响应式原理）/Watcher.js",
+    "变化检测（响应式原理）/Dep.js",
+    "变化检测（响应式原理）/index.js",
+    "变化检测（响应式原理）/dataChange.js",
+    "变化检测（响应式原理）/Object 变化检测.md",
+    "未命名.md",
+    "变化检测（响应式原理）"
+  ]
+}
