@@ -262,6 +262,27 @@ update 会在在值更新时执行 get 方法，实例会获取最新的值，�
 
 上述 defineReactive 只实现了 对 某个属性进行监听，现在我们封装成 Observer 类，该类能对数据所有属性进行监听
 
+```js
+class Observer {
+    constructor(value) {
+        this.value = value;
+        if (!Array.isArray(value)) {
+            this.walk(value);
+        }
+    }
+    // 监听所有属性
+    walk(obj) {
+        const keys = Object.keys(obj);
+        for (let i = 0; i < keys.length; i++) {
+            defineReactive(obj, keys[i], obj[keys[i]]);
+        }
+    }
+}
+```
+
+
+![[Pasted image 20230510225905.png]]
+
 
 # 问题
 
