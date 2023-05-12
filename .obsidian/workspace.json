@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "变化检测（响应式原理）/Object 变化检测.md",
+                "file": "变化检测（响应式原理）/Array 变化检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "变化检测（响应式原理）/Object 变化检测.md",
+                "file": "变化检测（响应式原理）/Array 变化检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "变化检测（响应式原理）/Object 变化检测.md",
+                "file": "变化检测（响应式原理）/Array 变化检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "变化检测（响应式原理）/Object 变化检测.md"
+                "file": "变化检测（响应式原理）/Array 变化检测.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "5b6ce71dc3d0f350",
   "lastOpenFiles": [
+    "变化检测（响应式原理）/Object 变化检测.md",
+    "变化检测（响应式原理）/Array 变化检测.md",
     "变化检测（响应式原理）/Pasted image 20230510225905.png",
+    "变化检测（响应式原理）/ArrayProxy.js",
     "Pasted image 20230510225905.png",
     "变化检测（响应式原理）/Array.md",
-    "变化检测（响应式原理）/Object 变化检测.md",
     "变化检测（响应式原理）/Observer.js",
     "变化检测（响应式原理）/Watcher.js",
     "变化检测（响应式原理）/Dep.js",
