@@ -78,7 +78,8 @@ title:Options
 
 ```
 
-![[Pasted image 20230524113453.png]]
+![image](https://github.com/zwm-Future/Vue_Learn/assets/82597033/888efe58-88bc-43cf-b605-8f17e8aec83f)
+
 
 
 从 数据侦测 到 收集依赖、再到 通知依赖，主要有 三个类，
