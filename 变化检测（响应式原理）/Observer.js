@@ -68,7 +68,7 @@ function defineReactive(data, key, val) {
         set(newVal) {
             if (newVal === val) return;
             val = newVal;
-            childOb.ob.notify();
+            childOb.Dep.notify();
         }
     })
 }
@@ -79,7 +79,7 @@ function observe(val) {
     if (hasOwn(val, '__ob__') && val.__ob__ instanceof Observer) {
         ob = val.__ob__;
     } else {
-        ob = new Observer();
+        ob = new Observer(val);
     }
     return ob;
 }

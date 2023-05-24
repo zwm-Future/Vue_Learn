@@ -1,6 +1,9 @@
+let uid = 0;
 class Dep {
     constructor() {
         this.subs = [];
+        this.id = uid;
+        uid++;
     }
     addSub(sub) {
         this.subs.push(sub);
@@ -10,6 +13,7 @@ class Dep {
     }
     depend() {
         if (window.target) {
+            window.target.addDep(this);
             this.addSub(window.target);
         }
     }
@@ -30,4 +34,4 @@ function remove(arr, item) {
     }
 }
 
-module.exports = {Dep};
+module.exports = { Dep };
